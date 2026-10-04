@@ -1,0 +1,44 @@
+---------------------------------typography------------------------------------
+
+index.css
+│
+├── Font
+│
+├── @theme
+│   ├── Colors
+│   ├── Typography
+│   ├── Spacing
+│   ├── Radius
+│   └── Shadows
+│
+├── Global
+│
+├── Typography classes
+│   ├── sc-display
+│   ├── sc-h1
+│   ├── sc-h2
+│   ├── sc-h3
+│   ├── sc-body
+│   └── sc-label
+│
+├── Components
+│   ├── Buttons
+│   ├── Container
+│   └── Cards
+│
+└── Responsive
+
+
+( PURPOSE )	                            ( CLASS )	                     ( SIZE )
+
+Hero	                               sc-display	                     64px
+Main heading	                       sc-h1	                         48px
+Section heading	                       sc-h2	                         40px
+Card heading	                       sc-h3	                         24px
+Large paragraph	                       sc-body-lg	                     18px
+Normal paragraph	                   sc-body	                         15px
+Small paragraph	                       sc-body-sm	                     13px
+Caption	                               sc-caption	                     11px
+Eyebrow	                               sc-label	                         10px
+
+

@@ -1,0 +1,8 @@
+export const organizationInsights = {
+  openai:{ positioning:{research:"Very High",foundationModels:"Very High",developerPlatform:"Very High",agents:"Very High",multimodalAI:"Very High",openModels:"Low"}, knownFor:["Frontier foundation models","Reasoning systems","AI developer APIs","AI agents","Consumer AI products"] },
+  anthropic:{ positioning:{research:"Very High",foundationModels:"Very High",developerPlatform:"High",agents:"Very High",multimodalAI:"High",openModels:"Low"}, knownFor:["Claude models","AI safety","Long-context systems","Coding","Agentic AI"] },
+  "google-deepmind":{ positioning:{research:"Very High",foundationModels:"Very High",developerPlatform:"High",agents:"High",multimodalAI:"Very High",openModels:"High"}, knownFor:["Gemini","Scientific AI","Robotics","Multimodal systems","AI research"] },
+  "meta-ai":{ positioning:{research:"Very High",foundationModels:"Very High",developerPlatform:"High",agents:"Medium",multimodalAI:"Very High",openModels:"Very High"}, knownFor:["Llama","Open-weight models","Computer vision","Multimodal AI","AI research"] },
+  mistral:{ positioning:{research:"High",foundationModels:"Very High",developerPlatform:"High",agents:"High",multimodalAI:"High",openModels:"Very High"}, knownFor:["Open-weight models","Efficient AI","Coding models","Document AI","Agentic systems"] },
+  xai:{ positioning:{research:"High",foundationModels:"Very High",developerPlatform:"High",agents:"Very High",multimodalAI:"High",openModels:"Low"}, knownFor:["Grok","Reasoning","Coding","Long-running agents","Interactive AI"] },
+};

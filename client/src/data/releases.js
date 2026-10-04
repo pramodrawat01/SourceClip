@@ -1,0 +1,10 @@
+export const releases = [
+  {id:"openai-gpt-54",organizationId:"openai",modelId:"gpt-5-4",title:"GPT-5.4",date:"2026-03-05",type:"Model",summary:"A frontier model focused on complex reasoning, coding, multimodal work, and agentic workflows.",url:"https://openai.com/"},
+  {id:"openai-gpt-54-mini",organizationId:"openai",modelId:"gpt-5-4-mini",title:"GPT-5.4 mini",date:"2026-03-17",type:"Model",summary:"A smaller and more efficient model designed for capable reasoning and coding workloads.",url:"https://openai.com/"},
+  {id:"anthropic-opus-46",organizationId:"anthropic",modelId:"claude-opus-4-6",title:"Claude Opus 4.6",date:"2026-02-05",type:"Model",summary:"A frontier Claude model focused on coding, agents, analysis, research, and long-context work.",url:"https://www.anthropic.com/news"},
+  {id:"anthropic-sonnet-46",organizationId:"anthropic",modelId:"claude-sonnet-4-6",title:"Claude Sonnet 4.6",date:"2026-02-17",type:"Model",summary:"A general-purpose Claude model designed for reasoning, coding, agents, and knowledge work.",url:"https://www.anthropic.com/news"},
+  {id:"deepmind-gemini-flash",organizationId:"google-deepmind",modelId:"gemini-3-8-flash",title:"Gemini 3.8 Flash",date:"2026-09-02",type:"Model",summary:"A fast Gemini model designed for complex agentic workloads at scale.",url:"https://deepmind.google/models/"},
+  {id:"meta-llama-4",organizationId:"meta-ai",modelId:"llama-4-scout",title:"Llama 4 Scout",date:"2025-04-05",type:"Model",summary:"An open-weight multimodal Llama 4 model designed for long-context applications.",url:"https://ai.meta.com/llama/"},
+  {id:"mistral-small-4",organizationId:"mistral",modelId:"mistral-small-4",title:"Mistral Small 4",date:"2026-03-01",type:"Model",summary:"An open model combining instruction following, reasoning, coding, and multimodal capabilities.",url:"https://mistral.ai/models/"},
+  {id:"xai-grok-46",organizationId:"xai",modelId:"grok-4-6",title:"Grok 4.6",date:"2026-08-26",type:"Model",summary:"A flagship Grok model focused on reasoning, interactive use, visual workloads, and long-running agents.",url:"https://x.ai/news"},
+];
